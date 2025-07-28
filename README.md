@@ -1,6 +1,6 @@
 ## KiCad Mini Projects
 
-Welcome to **KiCad Mini Projects** — a growing collection of PCB designs built using KiCad. These projects are **fully completed in design**, including schematic capture, layout, 3D rendering, and Bill of Materials (BOM), but are **not physically fabricated**. They serve as practice and portfolio work for learning PCB design, embedded systems, and electronics engineering workflows.
+Welcome to **KiCad Mini Projects** — a growing collection of PCB designs built using KiCad. These projects are **fully completed in design**, including schematic capture, layout, 3D rendering, and Bill of Materials (BOM), but are **not physically fabricated**. They are fabrication ready in line with JLCPCB's design constraints. They serve as practice and portfolio work for learning PCB design, embedded systems, and electronics engineering workflows. 
 
 ---
 
