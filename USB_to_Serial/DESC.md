@@ -13,7 +13,7 @@ A compact USB-to-Serial interface board built around the CH340C and ESP32-WROOM-
 ### Schematic & Layout
 
 *Schematic:*
-![Schematic](exports/USB_to_Serial_Schematic.pdf)
+![Schematic](exports/USB_to_Serial_Schematic.png)
 
 *PCB Layout:*
 ![Top View](exports/USB_to_Serial_Top.png)
