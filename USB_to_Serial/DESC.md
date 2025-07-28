@@ -1,6 +1,6 @@
 ## USB to Serial Converter (CH340C + ESP32)
 
-A compact USB-to-Serial interface board built around the CH340C and ESP32-WROOM-32E, designed in KiCad. Useful for debugging, flashing firmware, or serial interfacing. Design is ready for manufacturing with JLCPCB as it meets all their constraints with a slight adjustment of the edge-clearance constraint from 0.5mm to 0.3mm.
+A compact USB-to-Serial interface board built around the CH340C and ESP32-WROOM-32E, designed in KiCad. Useful for debugging, flashing firmware, or serial interfacing. Design is ready for manufacturing with **JLCPCB**, one slight adjustment was done on manufacturer's design constraints -- the edge-clearance had to be decreased from *0.5mm* to *0.3mm*.
 
 ### Features
 - USB-C input
