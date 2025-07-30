@@ -41,7 +41,4 @@ A compact USB-to-Serial interface board built around the CH340C and ESP32-WROOM-
 - `exports/` contains rendered schematic and board images
 - `BOM/` includes component list for sourcing (JLC Compatible)
   
----
 
-### License
-[MIT License](LICENSE)
