@@ -6,6 +6,15 @@
 
 ---
 
+### Goals
+
+- **Build professional PCB designs in KiCad**
+- **Practice embedded and analog layout skills**
+- **Demonstrate ability to complete full design cycles**
+- **Showcase experience for hardware/embedded engineering positions**
+
+---
+
 ### Structure
 
 Each project includes:
@@ -15,15 +24,6 @@ Each project includes:
 - `libraries/` **KiCad symbol/footprint libraries for any external components**
 - `datasheets/` **Datasheets for key project components**
 - `DESC.md` **Explaining design overview and results**
-
----
-
-### Goals
-
-- **Build professional PCB designs in KiCad**
-- **Practice embedded and analog layout skills**
-- **Demonstrate ability to complete full design cycles**
-- **Showcase experience for hardware/embedded engineering positions**
 
 ---
 
