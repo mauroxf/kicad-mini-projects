@@ -2,6 +2,8 @@
 
 A compact USB-to-Serial interface board built around the CH340C and ESP32-WROOM-32E, designed in KiCad. Useful for debugging, flashing firmware, or serial interfacing. Design is ready for manufacturing with **JLCPCB**, one slight adjustment was done on manufacturer's design constraints -- the edge-clearance had to be decreased from *0.5mm* to *0.3mm*.
 
+---
+
 ### Features
 - USB-C input
 - AMS1117-based 3.3V regulation
@@ -9,6 +11,8 @@ A compact USB-to-Serial interface board built around the CH340C and ESP32-WROOM-
 - ESP32-WROOM-32E footprint
 - Status LED
 - Clean routing and optimized trace widths
+
+---
 
 ### Schematic & Layout
 
@@ -21,6 +25,8 @@ A compact USB-to-Serial interface board built around the CH340C and ESP32-WROOM-
 **3D Render:**
 ![Render](exports/USB_to_Serial_3D.png) 
 
+---
+
 ### Skills Demonstrated
 - PCB layout in KiCad (2-layer)
 - Component footprint and symbol management
@@ -28,10 +34,14 @@ A compact USB-to-Serial interface board built around the CH340C and ESP32-WROOM-
 - Power distribution (VBUS to LDO to 3.3V)
 - Schematic capture and electrical rule checking
 
+---
+
 ### Files
 - `KiCad_files/` contains editable schematic and pcb layout files
 - `exports/` contains rendered schematic and board images
-- `BOM/` includes component list for sourcing (JLC Compatible) 
+- `BOM/` includes component list for sourcing (JLC Compatible)
+  
+---
 
 ### License
 [MIT License](LICENSE)
