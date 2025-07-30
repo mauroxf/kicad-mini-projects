@@ -1,4 +1,5 @@
-###  Parts to Buy on Amazon
+###  Amazon Parts
+These parts are not ideal to have JLC assemble as they are plug and play and are much cheaper on amazon. These exact models are fully compatible with the PCB I designed. No soldering required.
 
 | Component                | Description                                  | Amazon Link |
 |--------------------------|----------------------------------------------|-------------|
