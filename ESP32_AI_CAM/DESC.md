@@ -59,7 +59,7 @@ A compact, modular breakout PCB designed for the **ESP32-CAM** development board
 
 ---
 
-## License
+### License
 
 [MIT License](ESP32_AI_CAM/LICENSE).
 
