@@ -57,10 +57,3 @@ A compact, modular breakout PCB designed for the **ESP32-CAM** development board
 - `datasheets/` contains images of datasheets for key components
 - `libraries/` includes kicad libraries for imported components 
 
----
-
-### License
-
-[MIT License](ESP32_AI_CAM/LICENSE).
-
-
