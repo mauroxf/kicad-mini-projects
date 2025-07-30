@@ -62,7 +62,7 @@ Each project includes:
 
 ### License
 
-All designs in this repository are released under the [MIT License](./LICENSE). You are free to use, modify, and share them with attribution.
+All designs in this repository are released under the [MIT License](./LICENSE). You are free to use, modify, and share them.
 
 ---
 
