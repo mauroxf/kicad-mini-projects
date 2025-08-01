@@ -54,6 +54,7 @@ A compact, modular breakout PCB designed for the **ESP32-CAM** development board
 - `KiCad_files/` contains editable schematic and pcb layout files
 - `exports/` contains rendered schematic and board images
 - `BOM/` includes component list for sourcing (JLC Compatible), and Amazon links
+- `Gerbers/` .zip file of all generated gerber drill files for pcb
 - `datasheets/` contains images of datasheets for key components
 - `libraries/` includes kicad libraries for imported components 
 
