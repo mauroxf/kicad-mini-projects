@@ -40,5 +40,6 @@ A compact USB-to-Serial interface board built around the CH340C and ESP32-WROOM-
 - `KiCad_files/` contains editable schematic and pcb layout files
 - `exports/` contains rendered schematic and board images
 - `BOM/` includes component list for sourcing (JLC Compatible)
+- `Gerbers/` .zip file of all generated gerber drill files for pcb
   
 
