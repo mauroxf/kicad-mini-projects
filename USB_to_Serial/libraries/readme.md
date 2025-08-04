@@ -3,7 +3,7 @@
 This folder contains custom KiCad libraries used in this project, including:
 
 - **Footprints** (`.pretty`): For custom PCB layout components.
-- **Symbols** (`.lib` / `.dcm`) or (`kicad_sym`): For schematic symbols associated with the footprints.
+- **Symbols** (`.lib` / `.dcm`) or (`.kicad_sym`): For schematic symbols associated with the footprints.
 
 ---
 
