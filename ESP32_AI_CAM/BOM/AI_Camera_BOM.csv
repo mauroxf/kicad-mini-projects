@@ -1,0 +1,12 @@
+Comment,Designator,Footprint,JLCPCB Part #
+10uF,"C1, C2",Capacitor_SMD:C_0603_1608Metric ,C19702
+RED LEDs,"D1, D2",LED_SMD:LED_0603_1608Metric,C2286
+USB C 16 Pin Connector,J3,Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,C165948
+5.1 kΩ,"R1, R2, R5",Resistor_SMD:R_0603_1608Metric,C23186
+470 Ω,R3,Resistor_SMD:R_0603_1608Metric,C23162
+10 kΩ,R4,Resistor_SMD:R_0603_1608Metric,C25804
+Button Switch SMD H2.5mm,SW1,Button_Switch_SMD:SW_SPST_EVQP2_ShortPushTravel_H2.5mm,C273519
+AMS1117-3.3,U3,Package_TO_SOT_SMD:SOT-223-3_TabPin2,C6186
+"Female 1x8 Pinheader 2.54mm, THT, Hand-solder","J1, J2 ",Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical,DNP
+"Female 1x3 Pinheader 2.54mm, THT, Hand-solder","SERVO_PAN1, SERVO_TILT1",Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,DNP
+"Female 1x4 pinheaded 2.54mm, THT, Hand-solder",OLED1 ,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,DNP
