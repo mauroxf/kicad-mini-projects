@@ -31,7 +31,7 @@ Each project includes:
 
 | Project | Description | MCU / Chipset |
 |---------|-------------|----------------|
-| [USB to Serial Converter](./USB_to_Serial_Converter) | USB-C to 3.3V UART bridge with CH340C + ESP32 headers | CH340C + ESP32 |
+| [USB to Serial Converter](./USB_to_Serial) | USB-C to 3.3V UART bridge with CH340C + ESP32 headers | CH340C + ESP32 |
 | [ESP32 AI Camera](./ESP32_AI_CAM) | Modular ESP32-CAM board with SSD1306 OLED, servo headers, and boot support | ESP32-CAM |
 
 *More projects coming soon*
